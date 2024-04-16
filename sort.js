@@ -12,3 +12,6 @@ var sortNumber = function (number) {
  console.log(number);
 
  //pururikutesto
+//  あああ
+// いいい
+// ううう
